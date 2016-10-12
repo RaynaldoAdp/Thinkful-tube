@@ -1,0 +1,10 @@
+a{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin: 10px;
+}
+
+.js-displayContainer{
+	width:100%;
+}
